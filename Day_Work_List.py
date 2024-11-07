@@ -1,4 +1,4 @@
-toprint("DAY WORK LIST")
+print("DAY WORK LIST")
 print("Enter Password to start Program")
 Pw=input("")
 if Pw=="password":
