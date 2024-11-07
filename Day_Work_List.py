@@ -9,7 +9,7 @@ if Pw=="password":
      if tsk=="1":
        tsk1=input("Enter task:  ")
      else:
-       print("Please Enter Correct Digit")
+       print("")
      if tsk=="2":
        print("No task Enter")
      if tsk=="3":
@@ -31,7 +31,7 @@ if Pw=="password":
      if tsk=="3":
          print("Task Removed")
      else:
-         print("Please Enter Correct Digit")
+         print("")
      print("Enter 1 to add task")
      print("Enter 2 to view task")
      print("Enter 3 to Remove task")
@@ -47,7 +47,7 @@ if Pw=="password":
      if tsk=="3":
          print("Task Removed")
      else:
-         print("Please Enter Correct Digit")
+         print("")
      print("Enter 1 to add task")
      print("Enter 2 to view task")
      print("Enter 3 to Remove task")
@@ -63,7 +63,7 @@ if Pw=="password":
      if tsk=="3":
          print("Task Removed")
      else:
-         print("Please Enter Correct Digit")
+         print("")
      print("Enter 1 to add task")
      print("Enter 2 to view task")
      print("Enter 3 to Remove task")
@@ -79,7 +79,7 @@ if Pw=="password":
      if tsk=="3":
          print("Task Removed")
      else:
-         print("Please Enter Correct Digit")
+         print("")
      print("Enter 1 to add task")
      print("Enter 2 to view task")
      print("Enter 3 to Remove task")
@@ -95,6 +95,6 @@ if Pw=="password":
      if tsk=="3":
          print("Task Removed")
      else:
-         print("Please Enter Correct Digit")
+         print("")
 else:
    print("InValid Password")
